@@ -30,6 +30,7 @@
 		50F388B82B7488AC008AF188 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50F388D02B748F20008AF188 /* openapi-generator-config.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = "openapi-generator-config.yaml"; sourceTree = "<group>"; };
 		50F388D12B748F20008AF188 /* openapi.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = openapi.yml; sourceTree = "<group>"; };
+		50F388FD2B74AAFC008AF188 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +49,7 @@
 		50F3889E2B7488A8008AF188 = {
 			isa = PBXGroup;
 			children = (
+				50F388FD2B74AAFC008AF188 /* README.md */,
 				50F388A92B7488A8008AF188 /* SwiftOpenAPI */,
 				50F388A82B7488A8008AF188 /* Products */,
 			);
